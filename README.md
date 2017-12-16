@@ -8,8 +8,8 @@ Do you like this project? Star it and [offer me some coffe](https://www.gittip.c
 
 # NOTE :-
 
-## This extension is the same as the extension [Gist Manager](https://github.com/FezVrasta/gist-manager) By FezVrasta except that the theme has been changed to allow you to use it properly with dark themes so that it is readable.
-## The gist-manager.css file in style folder has been edited so if you wish to change theme you can edit that file.
+This extension is the same as the extension [Gist Manager](https://github.com/FezVrasta/gist-manager) By FezVrasta except that the theme has been changed to allow you to use it properly with dark themes so that it is readable.
+The gist-manager.css file in style folder has been edited so if you wish to change theme you can edit that file.
 
 
 ## Usage:
