@@ -1,0 +1,13 @@
+{
+    "name": "gist-manager.for.dark.theme",
+    "title": "Gist Manager For Dark Theme",
+    "description": "Create and view Github Gists within Brackets. Made specifically for dark themes",
+    "keywords": ["gist", "GitHub", "snippets"],
+    "homepage": "https://github.com/FezVrasta/gist-manager",
+    "version": "0.1.1",
+    "author": "Fez Vrasta Theme By Anand Arokianathan",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}

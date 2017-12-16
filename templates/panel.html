@@ -1,0 +1,26 @@
+<div id="gist-manager" class="bottom-panel vert-resizable top-resizer">
+
+    <div class="toolbar simple-toolbar-layout">
+        <span class="title">Gist Manager</span>
+        <div class="btn-group">
+            <input type="text" id="github-username" placeholder="{{USERNAME}}" list="users">
+            <input type="password" id="github-password" placeholder="{{PASSWORD}}">
+            <datalist id="users">
+                {{#auths}}
+                <option value="{{.}}">
+                {{/auths}}
+            </datalist>
+            <button class="btn btn-default" id="load-gists">{{LOAD_GISTS}}</button>
+            <button class="btn btn-default" id="new-gist">{{NEW_GIST}}</button>
+        </div>
+        <span class="pull-right">
+            <input type="text" id="filter-content" placeholder="{{FILTER}}">
+            <a href="#" class="close">&times;</a>
+        </span>
+    </div>
+
+    <div class="gist-manager-content resizable-content">
+
+    </div>
+
+</div>
